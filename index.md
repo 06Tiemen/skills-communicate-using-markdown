@@ -20,3 +20,7 @@ final String lastName = "Baxter";
 ?>
 ```
 # Contribution
+- [x] Complete steps 1 — 3
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
